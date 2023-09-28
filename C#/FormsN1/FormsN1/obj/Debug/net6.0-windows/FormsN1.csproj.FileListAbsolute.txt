@@ -1,0 +1,51 @@
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.exe
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.deps.json
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.runtimeconfig.json
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.dll
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.pdb
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.csproj.AssemblyReference.cache
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.Form1.resources
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.csproj.GenerateResource.cache
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.AssemblyInfoInputs.cache
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.AssemblyInfo.cs
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.csproj.CoreCompileInputs.cache
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.dll
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\refint\FormsN1.dll
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.pdb
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.genruntimeconfig.cache
+C:\Users\ap339\OneDrive\Documents\Visual Studio Content\FormsN1\FormsN1\obj\Debug\net6.0-windows\ref\FormsN1.dll
+C:\gramtelem\C#\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.exe
+C:\gramtelem\C#\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.deps.json
+C:\gramtelem\C#\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.runtimeconfig.json
+C:\gramtelem\C#\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.dll
+C:\gramtelem\C#\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.pdb
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.csproj.AssemblyReference.cache
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.Form1.resources
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.csproj.GenerateResource.cache
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.AssemblyInfoInputs.cache
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.AssemblyInfo.cs
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.csproj.CoreCompileInputs.cache
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.dll
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\refint\FormsN1.dll
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.pdb
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.genruntimeconfig.cache
+C:\gramtelem\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\ref\FormsN1.dll
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.exe
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.deps.json
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.runtimeconfig.json
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.dll
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\bin\Debug\net6.0-windows\FormsN1.pdb
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.csproj.AssemblyReference.cache
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.Form1.resources
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.csproj.GenerateResource.cache
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.AssemblyInfoInputs.cache
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.AssemblyInfo.cs
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.csproj.CoreCompileInputs.cache
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.dll
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\refint\FormsN1.dll
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.pdb
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\FormsN1.genruntimeconfig.cache
+C:\Users\PC-22\Desktop\C#\FormsN1\FormsN1\obj\Debug\net6.0-windows\ref\FormsN1.dll
